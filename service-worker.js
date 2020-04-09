@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/econsult-website/precache-manifest.1381b0138dac608fe54663634e0bb685.js"
+  "/econsult-website/precache-manifest.9e33db61ea98380c39abbd686cd88cda.js"
 );
 
 self.addEventListener('message', (event) => {
